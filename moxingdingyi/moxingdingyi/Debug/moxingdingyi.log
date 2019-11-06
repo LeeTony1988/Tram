@@ -1,0 +1,329 @@
+﻿  BeginForm.cpp
+d:\cplusplus_code\moxingdingyi\moxingdingyi\powerdissipationform1.h(777): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\peopleflowform.h(430): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandpeopleflowform.h(266): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(229): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(250): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(267): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(275): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(305): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(322): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(352): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\peoplechangedform.h(184): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(140): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(152): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(164): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(176): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(187): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(226): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(230): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(246): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(247): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(248): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(253): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(259): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(217): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(237): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(238): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(250): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(256): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(257): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(263): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(264): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(307): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(439): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(170): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(191): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(215): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(253): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(258): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(274): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(275): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(276): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(281): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(287): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(669): warning C4677: “drawArrow”: 非私有成员的签名包含程序集私有类型“OpenGLForm::Point”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(21): note: 参见“OpenGLForm::Point”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2394): warning C4677: “getPowerSupplyCoordinate”: 非私有成员的签名包含程序集私有类型“OpenGLForm::Point”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(21): note: 参见“OpenGLForm::Point”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2666): warning C4677: “subGetPowerSupplyCoordinate”: 非私有成员的签名包含程序集私有类型“OpenGLForm::Point”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(21): note: 参见“OpenGLForm::Point”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2724): warning C4677: “getCoordinate”: 非私有成员的签名包含程序集私有类型“OpenGLForm::Point”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(21): note: 参见“OpenGLForm::Point”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(198): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(216): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(235): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(238): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(259): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(281): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(287): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(680): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(682): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(689): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(690): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(724): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(731): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(751): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(758): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(1047): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(1143): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(1321): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(1427): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2002): warning C4305: “初始化”: 从“int”到“char”截断
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2002): warning C4309: “初始化”: 截断常量值
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2035): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2038): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2234): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2426): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2441): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2442): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2460): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2461): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2499): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2515): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2531): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2544): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2547): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2567): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2579): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2617): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2628): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2645): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2680): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2704): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(178): warning C4677: “sites”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Site”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(37): note: 参见“StraightPaintForm::Site”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(179): warning C4677: “sites1”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Site”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(37): note: 参见“StraightPaintForm::Site”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(180): warning C4677: “tram”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(181): warning C4677: “trams”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(182): warning C4677: “trlights”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Trafficlight”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(142): note: 参见“StraightPaintForm::Trafficlight”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(318): warning C4677: “updatePeopleOnTramAndEmptyRate”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1179): warning C4677: “running”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1208): warning C4677: “UpdateStep”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1231): warning C4677: “Runimm”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1402): warning C4677: “RunSys”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1701): warning C4677: “Checked”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(195): warning C4305: “初始化”: 从“double”到“float”截断
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(343): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(368): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(396): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1038): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1613): warning C4244: “参数”: 从“double”转换到“GLsizei”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(916): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(920): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(924): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(928): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(932): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(985): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(241): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(246): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(267): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(272): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(310): warning C4677: “sites”: 非私有成员的签名包含程序集私有类型“RealRoad::Site”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(14): note: 参见“RealRoad::Site”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(311): warning C4677: “inv_sites”: 非私有成员的签名包含程序集私有类型“RealRoad::Site”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(14): note: 参见“RealRoad::Site”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(313): warning C4677: “trams”: 非私有成员的签名包含程序集私有类型“RealRoad::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(49): note: 参见“RealRoad::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(493): warning C4677: “Run_imm”: 非私有成员的签名包含程序集私有类型“RealRoad::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(49): note: 参见“RealRoad::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(545): warning C4677: “SysRun”: 非私有成员的签名包含程序集私有类型“RealRoad::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(49): note: 参见“RealRoad::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(598): warning C4677: “Checked”: 非私有成员的签名包含程序集私有类型“RealRoad::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(49): note: 参见“RealRoad::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(418): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(644): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(683): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(720): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(764): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(854): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(858): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(862): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(866): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(870): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(874): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  PeopleFlowForm.cpp
+d:\cplusplus_code\moxingdingyi\moxingdingyi\peopleflowform.h(430): warning C4101: “e”: 未引用的局部变量
+  moxing.cpp
+d:\cplusplus_code\moxingdingyi\moxingdingyi\powerdissipationform1.h(777): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\peopleflowform.h(430): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandpeopleflowform.h(266): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(229): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(250): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(267): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(275): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(305): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(322): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\manydaysform.h(352): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\peoplechangedform.h(184): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(140): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(152): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(164): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(176): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(187): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(226): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(230): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(246): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(247): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(248): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(253): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\turntosingleform.h(259): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(217): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(237): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(238): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(250): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(256): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(257): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(263): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(264): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(307): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\timeandemptyrateform.h(439): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(170): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(191): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(215): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(253): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(258): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(274): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(275): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(276): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(281): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\single_project_updownpeopleform.h(287): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(669): warning C4677: “drawArrow”: 非私有成员的签名包含程序集私有类型“OpenGLForm::Point”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(21): note: 参见“OpenGLForm::Point”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2394): warning C4677: “getPowerSupplyCoordinate”: 非私有成员的签名包含程序集私有类型“OpenGLForm::Point”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(21): note: 参见“OpenGLForm::Point”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2666): warning C4677: “subGetPowerSupplyCoordinate”: 非私有成员的签名包含程序集私有类型“OpenGLForm::Point”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(21): note: 参见“OpenGLForm::Point”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2724): warning C4677: “getCoordinate”: 非私有成员的签名包含程序集私有类型“OpenGLForm::Point”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(21): note: 参见“OpenGLForm::Point”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(198): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(216): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(235): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(238): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(259): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(281): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(287): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(680): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(682): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(689): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(690): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(724): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(731): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(751): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(758): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(1047): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(1143): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(1321): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(1427): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2002): warning C4305: “初始化”: 从“int”到“char”截断
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2002): warning C4309: “初始化”: 截断常量值
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2035): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2038): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2234): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2426): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2441): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2442): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2460): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2461): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2499): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2515): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2531): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2544): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2547): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2567): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2579): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2617): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2628): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2645): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2680): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(2704): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(178): warning C4677: “sites”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Site”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(37): note: 参见“StraightPaintForm::Site”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(179): warning C4677: “sites1”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Site”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(37): note: 参见“StraightPaintForm::Site”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(180): warning C4677: “tram”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(181): warning C4677: “trams”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(182): warning C4677: “trlights”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Trafficlight”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(142): note: 参见“StraightPaintForm::Trafficlight”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(318): warning C4677: “updatePeopleOnTramAndEmptyRate”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1179): warning C4677: “running”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1208): warning C4677: “UpdateStep”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1231): warning C4677: “Runimm”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1402): warning C4677: “RunSys”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1701): warning C4677: “Checked”: 非私有成员的签名包含程序集私有类型“StraightPaintForm::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(61): note: 参见“StraightPaintForm::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(195): warning C4305: “初始化”: 从“double”到“float”截断
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(343): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(368): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(396): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1038): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\straightlinepaint.h(1613): warning C4244: “参数”: 从“double”转换到“GLsizei”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(916): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(920): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(924): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(928): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(932): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\stationlogicform.h(985): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(241): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(246): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(267): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(272): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(310): warning C4677: “sites”: 非私有成员的签名包含程序集私有类型“RealRoad::Site”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(14): note: 参见“RealRoad::Site”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(311): warning C4677: “inv_sites”: 非私有成员的签名包含程序集私有类型“RealRoad::Site”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(14): note: 参见“RealRoad::Site”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(313): warning C4677: “trams”: 非私有成员的签名包含程序集私有类型“RealRoad::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(49): note: 参见“RealRoad::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(493): warning C4677: “Run_imm”: 非私有成员的签名包含程序集私有类型“RealRoad::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(49): note: 参见“RealRoad::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(545): warning C4677: “SysRun”: 非私有成员的签名包含程序集私有类型“RealRoad::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(49): note: 参见“RealRoad::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(598): warning C4677: “Checked”: 非私有成员的签名包含程序集私有类型“RealRoad::Tram”
+  d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadinfo.h(49): note: 参见“RealRoad::Tram”的声明
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(418): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(644): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(683): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(720): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(764): warning C4101: “e”: 未引用的局部变量
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(854): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(858): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(862): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(866): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(870): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\moxingdingyi\moxingdingyi\realroadform.h(874): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+d:\cplusplus_code\moxingdingyi\moxingdingyi\peoplechangedform.h(215): warning C4700: 使用了未初始化的局部变量“k”
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(1925): warning C4715: “OpenGLForm::COpenGL::GetNextSite”: 不是所有的控件路径都返回值
+d:\cplusplus_code\moxingdingyi\moxingdingyi\peoplechangedform.h(215): warning C4700: 使用了未初始化的局部变量“k”
+d:\cplusplus_code\moxingdingyi\moxingdingyi\opengl.h(1925): warning C4715: “OpenGLForm::COpenGL::GetNextSite”: 不是所有的控件路径都返回值
+  BeginForm.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  moxingdingyi.vcxproj -> D:\CPlusPlus_code\moxingdingyi\Debug\moxingdingyi.exe

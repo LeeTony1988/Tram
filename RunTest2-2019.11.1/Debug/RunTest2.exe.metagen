@@ -1,0 +1,137 @@
+  RunTest2.arriveForm.resources - Embedded, ContainedInManifestFile, 
+  RunTest2.Form1.resources - Embedded, ContainedInManifestFile, 
+  RunTest2.powerVIForm.resources - Embedded, ContainedInManifestFile, 
+  RunTest2.speedForm.resources - Embedded, ContainedInManifestFile, 
+  RunTest2.trainVIForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly RunTest2, Version=1.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class RunTest2.arriveForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Data.SqlClient.SqlConnection Conn : Public
+    System.Data.SqlClient.SqlDataAdapter Adapter : Public
+    System.String modelname : Public
+    System.String wayname : Public
+    System.String trainname : Public
+    System.String[] stopname : Public
+    Int32 zaikeliang : Public
+Class RunTest2.powerVIForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Data.SqlClient.SqlConnection Conn : Public
+    System.Data.SqlClient.SqlDataAdapter Adapter : Public
+    System.String modelname : Public
+    System.String wayname : Public
+    System.String trainname : Public
+    Int32[] power_s : Public
+    System.String[] power_name : Public
+    Int32 power_l : Public
+    Int32 powerpassnum : Public
+Class RunTest2.speedForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Data.SqlClient.SqlConnection Conn : Public
+    System.Data.SqlClient.SqlDataAdapter Adapter : Public
+    System.String modelname : Public
+    System.String wayname : Public
+    System.String trainname : Public
+    System.String[] stopname : Public
+Class RunTest2.trainVIForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Data.SqlClient.SqlConnection Conn : Public
+    System.Data.SqlClient.SqlDataAdapter Adapter : Public
+    System.String modelname : Public
+    System.String wayname : Public
+    System.String trainname : Public
+Class RunTest2.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Net.Sockets.Socket newclient : Public
+    Boolean connected : Public
+    System.Threading.Thread myThread : Public
+    System.Data.SqlClient.SqlConnection Conn : Public
+    System.Data.SqlClient.SqlDataAdapter Adapter : Public
+    Int32[] s : Public
+    Int32[] ua : Public
+    Int32[] v : Public
+    Int32[] da : Public
+    Int32[] staytime : Public
+    Int32[] stopstaytime : Public
+    System.String[] stopname : Public
+    Int32 stop_num : Public
+    Int32[] geton_num : Public
+    Int32[] getoff_num : Public
+    Int32[] power_s : Public
+    System.String[] power_name : Public
+    Int32 power_l : Public
+    Int32[] light_s : Public
+    Int32[] greenlight_t : Public
+    Int32[] redlight_t : Public
+    Int32 getdata_f : Public
+    System.String modelname : Public
+    System.String wayname : Public
+    System.String trainname : Public
+    Int32 zaikeliang : Public
+    Int32 waylength : Public
+    Double ratio : Public
+    System.ValueType runtime DateTime IsBoxed : Public
+    Int32 index : Public
+    Int32 stop_index : Public
+    Int32 people_num : Public
+    System.DateTime store_time : Public
+    Int32 zhangdianbianhao : Public
+    Int32 s_index : Public
+    System.DateTime go_time : Public
+    Int32 send_num : Public
+    Int32 receive_num : Public
+    System.Data.SqlClient.SqlConnection getConn : Public
+    Double iposition : Public
+    Int32 S1 : Public
+    Boolean IsStop : Public
+  Methods:
+    get_data(): PrivateScope, Public, HideBySig
+    turnstraight(Int32[], Int32): PrivateScope, Public, HideBySig
+    turnstopname(String[]): PrivateScope, Public, HideBySig
+    turnpowername(String[]): PrivateScope, Public, HideBySig
+    getCRC(Byte[]): PrivateScope, Public, HideBySig
+    create_order(String, Int32): PrivateScope, Public, HideBySig
+    doubleturnint(Double): PrivateScope, Public, HideBySig
+    store_data(String[]): PrivateScope, Public, HideBySig
+    insert(Int32[], Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    get_light_s(): PrivateScope, Public, HideBySig
+    getpower_t(): PrivateScope, Public, HideBySig
+    time_table(): PrivateScope, Public, HideBySig
+    sendorder(String): PrivateScope, Public, HideBySig
+    ReceiveMsg(): PrivateScope, Public, HideBySig
+    getmsg(Byte[], DateTime): PrivateScope, Public, HideBySig
+    integral_getposition(DateTime, Double): PrivateScope, Public, HideBySig
+    getadjustposition(Byte): PrivateScope, Public, HideBySig
+    showtext(String, String): PrivateScope, Public, HideBySig
+Class RunTest2.Form1+MyInvoke: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(String, String): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(String, String, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask

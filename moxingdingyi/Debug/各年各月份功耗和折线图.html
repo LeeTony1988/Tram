@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- 引入 ECharts 文件 -->
+    <script src=".\echarts.min.js"></script>
+</head>
+<body>
+    <div id="chart1" style="width: 500px;height:320px;"></div>
+    <script type="text/javascript">
+		window.serie=new Array();
+		window.years=new Array();
+		
+		function ClearAll()
+		{
+			window.serie=[];
+			window.years=[];
+		}
+		function GetData(year,one,two,three,four,five,six,seven,eight,nine,ten,eleven,twelve)
+		{
+			var y_arr_temp=new Array();
+			y_arr_temp[0]=one;
+			y_arr_temp[1]=two;
+			y_arr_temp[2]=three;
+			y_arr_temp[3]=four;
+			y_arr_temp[4]=five;
+			y_arr_temp[5]=six;
+			y_arr_temp[6]=seven;
+			y_arr_temp[7]=eight;
+			y_arr_temp[8]=nine;
+			y_arr_temp[9]=ten;
+			y_arr_temp[10]=eleven;
+			y_arr_temp[11]=twelve;
+			var item={
+					name:'年份:'+year,
+					type:'line',
+					stack:'总量'+year,
+					itemStyle: {normal: {areaStyle: {type: 'default'}}},
+					data:y_arr_temp
+				}
+			window.years.push(year);
+			window.serie.push(item);
+		}
+		function InitChart()
+		{
+			var myChart = echarts.init(document.getElementById('chart1'));
+			myChart.clear();
+			option = {
+				tooltip : {
+					trigger: 'axis'
+				},
+				legend: {
+					data:window.years
+				},
+				toolbox: {
+					show : true,
+					feature : {
+						mark : {show: true},
+						dataView : {show: true, readOnly: false},
+						magicType : {show: true, type: ['line', 'bar', 'tiled']},
+						restore : {show: true},
+						saveAsImage : {show: true}
+					}
+				},
+				calculable : true,
+				xAxis : [
+					{
+						type : 'category',
+						boundaryGap : false,
+						data : ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月']
+					}
+				],
+				yAxis : [
+					{
+						type : 'value'
+					}
+				],
+				series : window.serie
+			};
+			myChart.setOption(option);
+		}
+    </script>
+</body>
+</html>

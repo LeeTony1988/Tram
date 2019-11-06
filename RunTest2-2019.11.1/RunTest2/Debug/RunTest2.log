@@ -1,0 +1,24 @@
+﻿cl : 命令行 warning D9035: “clr:pure”选项已否决，并将在将来的版本中移除
+  RunTest2.cpp
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\arriveform.h(547): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\calculatedataresult.h(114): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\calculatedataresult.h(145): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(919): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1306): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1401): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1406): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1425): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1441): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1474): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1483): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1487): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1567): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1742): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\arriveform.h(571): warning C4700: 使用了未初始化的局部变量“i”
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\arriveform.h(582): warning C4700: 使用了未初始化的局部变量“i”
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1124): warning C4700: 使用了未初始化的局部变量“i”
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1403): warning C4700: 使用了未初始化的局部变量“t_sum”
+d:\cplusplus_code\runtest2-2019.11.1\runtest2\form1.h(1941): warning C4700: 使用了未初始化的局部变量“i”
+  arriveForm.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+  arriveForm.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  RunTest2.vcxproj -> D:\CPlusPlus_code\RunTest2-2019.11.1\Debug\RunTest2.exe

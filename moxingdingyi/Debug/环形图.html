@@ -1,0 +1,225 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- 引入 ECharts 文件 -->
+    <script src=".\echarts.min.js"></script>
+	<style type="text/css">
+		#chart1{
+		height:200px;
+		width:200px;
+		float:left;
+		}
+		#chart2{
+		height:200px;
+		width:200px;
+		float:left;
+		}
+		#chart3{
+		height:200px;
+		width:200px;
+		float:left;
+		}
+	</style>
+</head>
+<body>
+    <div id="chart1" style="width: 330px;height:200px;"></div>
+	<div id="chart2" style="width: 330px;height:200px;"></div>
+	<div id="chart3" style="width: 330px;height:200px;"></div>
+    <script type="text/javascript">
+		var myChart1 = echarts.init(document.getElementById('chart1'));
+		var myChart2 = echarts.init(document.getElementById('chart2'));
+		var myChart3 = echarts.init(document.getElementById('chart3'));
+		function PaintChart(maxproposal,maxpower,minproposal,minpower,averpower)
+		{
+			myChart1.clear();
+			myChart2.clear();
+			myChart3.clear();
+			var dataStyle = {
+				normal: {
+					label: {show:false},
+					labelLine: {show:false}
+				}
+			};
+			var placeHolderStyle = {
+				normal : {
+					color: 'rgba(0,0,0,0)',
+					label: {show:false},
+					labelLine: {show:false}
+				},
+				emphasis : {
+					color: 'rgba(0,0,0,0)'
+				}
+			};
+			
+			option_max = {
+				title: {
+					text: '最大值',
+					x: 'center',
+					y: 'center',
+					itemGap: 20,
+					textStyle : {
+						color : 'rgba(30,144,255,0.8)',
+						fontFamily : '微软雅黑',
+						fontSize : 20,
+						fontWeight : 'bolder'
+					}
+				},
+				tooltip : {
+					show: true,
+					formatter: "{a} <br/>{b} : {c} ({d}%)"
+				},
+				legend: {
+					orient : 'vertical',
+					x : document.getElementById('chart1').offsetWidth / 2,
+					y : 45,
+					itemGap:12,
+					data:['能耗最高方案']
+				},
+				toolbox: {
+					show : true,
+					feature : {
+						mark : {show: true},
+						dataView : {show: true, readOnly: false},
+						restore : {show: true},
+						saveAsImage : {show: true}
+					}
+				},
+				series : [
+					{
+						name:'能耗最高方案',
+						type:'pie',
+						clockWise:false,
+						radius : [50, 70],
+						itemStyle : dataStyle,
+						data:[
+							{
+								value:maxpower,
+								name:maxproposal
+							},
+							{
+								value:(maxpower/0.75)-maxpower,
+								name:'invisible',
+								itemStyle : placeHolderStyle
+							}
+						]
+					}
+				]
+			};
+			myChart1.setOption(option_max);
+			
+			option_min = {
+				title: {
+					text: '最小值',
+					x: 'center',
+					y: 'center',
+					itemGap: 20,
+					textStyle : {
+						color : 'rgba(30,144,255,0.8)',
+						fontFamily : '微软雅黑',
+						fontSize : 20,
+						fontWeight : 'bolder'
+					}
+				},
+				tooltip : {
+					show: true,
+					formatter: "{a} <br/>{b} : {c} ({d}%)"
+				},
+				legend: {
+					orient : 'vertical',
+					x : document.getElementById('chart2').offsetWidth / 2,
+					y : 45,
+					itemGap:12,
+					data:['能耗最低方案']
+				},
+				toolbox: {
+					show : true,
+					feature : {
+						mark : {show: true},
+						dataView : {show: true, readOnly: false},
+						restore : {show: true},
+						saveAsImage : {show: true}
+					}
+				},
+				series : [
+					{
+						name:'能耗最低方案',
+						type:'pie',
+						clockWise:false,
+						radius : [50, 70],
+						itemStyle : dataStyle,
+						data:[
+							{
+								value:minpower,
+								name:minproposal
+							},
+							{
+								value:(minpower/0.25)-minpower,
+								name:'invisible',
+								itemStyle : placeHolderStyle
+							}
+						]
+					}
+				]
+			};
+			myChart2.setOption(option_min);
+			
+			option_aver = {
+				title: {
+					text: '平均值',
+					x: 'center',
+					y: 'center',
+					itemGap: 20,
+					textStyle : {
+						color : 'rgba(30,144,255,0.8)',
+						fontFamily : '微软雅黑',
+						fontSize : 20,
+						fontWeight : 'bolder'
+					}
+				},
+				tooltip : {
+					show: true,
+					formatter: "{a} <br/>{b} : {c} ({d}%)"
+				},
+				legend: {
+					orient : 'vertical',
+					x : document.getElementById('chart3').offsetWidth / 2,
+					y : 45,
+					itemGap:12,
+					data:['当天平均能耗']
+				},
+				toolbox: {
+					show : true,
+					feature : {
+						mark : {show: true},
+						dataView : {show: true, readOnly: false},
+						restore : {show: true},
+						saveAsImage : {show: true}
+					}
+				},
+				series : [
+					{
+						name:'平均值',
+						type:'pie',
+						clockWise:false,
+						radius : [50, 70],
+						itemStyle : dataStyle,
+						data:[
+							{
+								value:averpower,
+								name:'当天平均能耗'
+							},
+							{
+								value:(averpower/0.5)-averpower,
+								name:'invisible',
+								itemStyle : placeHolderStyle
+							}
+						]
+					}
+				]
+			};
+			myChart3.setOption(option_aver);
+		}
+    </script>
+</body>
+</html>
